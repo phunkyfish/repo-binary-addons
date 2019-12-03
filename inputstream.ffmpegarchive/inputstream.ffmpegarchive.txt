@@ -1,0 +1,1 @@
+inputstream.ffmpegarchive https://github.com/xbmc/inputstream.ffmpegarchive Matrix
